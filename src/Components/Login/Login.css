@@ -1,0 +1,41 @@
+.login {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 1500px;
+  position: sticky;
+}
+/* login container 1 */
+.login__container {
+  height: 100%;
+  width: 100%;
+  left: 20px;
+  right: 20px;
+}
+
+/* login container 2 */
+.login__container1 {
+  height: 990px;
+  display: flex;
+  align-items: center;
+  background-color: #b1b5bd;
+  top: 310px;
+  left: 20px;
+}
+
+.login__form {
+  position: absolute;
+  width: 423px;
+  height: 236px;
+  left: 737px;
+  top: 10px;
+}
+
+.login__container2 {
+  background-color: #0d2249;
+  color: white;
+  height: 39px;
+}
+
+/* {state ? className="hide_show": ""}> */
